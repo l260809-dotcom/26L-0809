@@ -1,0 +1,12 @@
+Libraries used in this project
+
+1. raylib
+   Website: https://www.raylib.com/
+   Header used: raylib.h
+   Used for: creating the window, drawing the board, pieces and text, and reading mouse clicks.
+
+
+Other requirements
+
+   - Compiler: C++ compiler (g++ / Visual Studio)
+   - Platform: Windows, x64
